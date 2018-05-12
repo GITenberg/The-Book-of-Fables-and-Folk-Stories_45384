@@ -1,0 +1,32 @@
+_repo: The-Book-of-Fables-and-Folk-Stories_45384
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45384-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scudder, Horace Elisha
+    aliases:
+    - Scudder, H. E. (Horace Elisha)
+    - Scudder, Horace E.
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '3446'
+    url: http://www.gutenberg.org/2009/agents/3446
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Fables'
+- !lcsh 'Tales'
+title: The Book of Fables and Folk Stories
+url: http://www.gutenberg.org/ebooks/45384
